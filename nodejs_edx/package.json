@@ -1,0 +1,11 @@
+{
+  "name": "edx",
+  "version": "1.0.0",
+  "description": "this is mynodjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abhishek kuntare",
+  "license": "ISC"
+}
